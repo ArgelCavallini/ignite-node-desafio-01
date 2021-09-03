@@ -2,6 +2,8 @@
   "name": "2-x-desafio-01",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "git@github.com:ArgelCavallini/ignite-node-desafio-01.git",
+  "author": "Argel Cavallini <argel_095@hotmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "nodemon src/index.js"
